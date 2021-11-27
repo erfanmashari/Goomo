@@ -1,7 +1,7 @@
 import TopPictures from "./TopPictures"
 import SuggestedCategory from "./SuggestedCategory"
 import AmazingSuggests from "./AmazingSuggests"
-import GoomoFeatures from "./GoomoFeatures"
+import Brands from "./Brands"
 import MostSellProducts from "./MostSellProducts"
 import NormalProductsSide from "./NormalProductsSide"
 
@@ -11,7 +11,7 @@ const Main = () => {
             <TopPictures />
             <SuggestedCategory />
             <AmazingSuggests />
-            <GoomoFeatures />
+            <Brands />
             <MostSellProducts />
             <NormalProductsSide />
         </>

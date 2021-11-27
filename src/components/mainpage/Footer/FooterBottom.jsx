@@ -2,8 +2,8 @@ import React from 'react'
 
 const FooterBottom = () => {
     return (
-        <footer className="w-full flex flex-row justify-between items-end pt-4">
-            <p className="text-2xl">All Rights Reserved ©</p>
+        <footer className="w-full flex flex-col sm:flex-row justify-between items-end pt-4">
+            <p className="w-full sm:w-max text-right text-xl sm:text-2xl">All Rights Reserved ©</p>
             <div className="flex flex-row-reverse gap-4">
                 <img src="./img/eetemad.png" alt="e-etemad"
                 className="w-20 h-20" />

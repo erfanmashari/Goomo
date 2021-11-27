@@ -2,7 +2,7 @@ import NormalProducts from './NormalProducts'
 
 const NormalProductsSide = () => {
     return (
-        <div className="w-full flex flex-col gap-8 bg-gray-200 px-16 py-8">
+        <div className="w-full flex flex-col gap-8 bg-gray-200 px-8 sm:px-16 py-8">
             <NormalProducts sideName="لپ تاپ و الترابوک"
             childComponent={[{
                 imageSource: "./img/asus 1.jpg", 
