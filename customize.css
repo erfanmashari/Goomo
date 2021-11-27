@@ -1,0 +1,19 @@
+@font-face {
+    font-family: vazir;
+    src: url("./vazir-font-v16.1.0/Vazir-Light.woff");
+    src: url("./vazir-font-v16.1.0/Vazir-Light.woff2");
+    src: url("./vazir-font-v16.1.0/Vazir-Light.eot");
+    src: url("./vazir-font-v16.1.0/Vazir-Light.ttf");
+}
+
+#body {
+    font-family: vazir;
+}
+
+.feature-image {
+    filter: invert(50);
+}
+
+.bg-dark {
+    background-color: rgb(36, 35, 35);
+}

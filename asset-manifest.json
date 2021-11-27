@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Goomo/static/css/main.5be2b47e.chunk.css",
+    "main.js": "/Goomo/static/js/main.76da197f.chunk.js",
+    "main.js.map": "/Goomo/static/js/main.76da197f.chunk.js.map",
+    "runtime-main.js": "/Goomo/static/js/runtime-main.ea0490cf.js",
+    "runtime-main.js.map": "/Goomo/static/js/runtime-main.ea0490cf.js.map",
+    "static/js/2.99d4802b.chunk.js": "/Goomo/static/js/2.99d4802b.chunk.js",
+    "static/js/2.99d4802b.chunk.js.map": "/Goomo/static/js/2.99d4802b.chunk.js.map",
+    "static/js/3.ccab7a10.chunk.js": "/Goomo/static/js/3.ccab7a10.chunk.js",
+    "static/js/3.ccab7a10.chunk.js.map": "/Goomo/static/js/3.ccab7a10.chunk.js.map",
+    "index.html": "/Goomo/index.html",
+    "static/css/main.5be2b47e.chunk.css.map": "/Goomo/static/css/main.5be2b47e.chunk.css.map",
+    "static/js/2.99d4802b.chunk.js.LICENSE.txt": "/Goomo/static/js/2.99d4802b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ea0490cf.js",
+    "static/js/2.99d4802b.chunk.js",
+    "static/css/main.5be2b47e.chunk.css",
+    "static/js/main.76da197f.chunk.js"
+  ]
+}
