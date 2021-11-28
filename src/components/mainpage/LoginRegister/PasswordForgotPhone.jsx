@@ -2,7 +2,7 @@ import { Link } from 'react-router-dom'
 
 const PasswordForgotPhone = () => {
     return (
-        <div className="w-full flex justify-center items-center bg-gray-200 px-8 sm:px-16 py-8">
+        <div className="lr-height w-full flex justify-center items-center bg-gray-200 px-8 sm:px-16 py-8">
             <form className="w-full sm:w-4/12 flex flex-col bg-white border border-gray-400 rounded-xl p-6 gap-4">
                 <label htmlFor="email">شماره موبایل</label>
                 <input type="email" placeholder="شماره موبایل خود را وارد نمایید"

@@ -11,7 +11,7 @@ import './App.css';
 
 function App() {
   return (
-    <Router>
+    <Router basename="Goomo">
       <div dir="rtl" className="w-full pt-3">
         <Header />
         <Routes>
